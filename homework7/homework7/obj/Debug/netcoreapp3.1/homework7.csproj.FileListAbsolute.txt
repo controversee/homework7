@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\homework7\homework7\bin\Debug\netcoreapp3.1\homework7.exe
+C:\Users\Lenovo\source\repos\homework7\homework7\bin\Debug\netcoreapp3.1\homework7.deps.json
+C:\Users\Lenovo\source\repos\homework7\homework7\bin\Debug\netcoreapp3.1\homework7.runtimeconfig.json
+C:\Users\Lenovo\source\repos\homework7\homework7\bin\Debug\netcoreapp3.1\homework7.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\homework7\homework7\bin\Debug\netcoreapp3.1\homework7.dll
+C:\Users\Lenovo\source\repos\homework7\homework7\bin\Debug\netcoreapp3.1\homework7.pdb
+C:\Users\Lenovo\source\repos\homework7\homework7\obj\Debug\netcoreapp3.1\homework7.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\homework7\homework7\obj\Debug\netcoreapp3.1\homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\homework7\homework7\obj\Debug\netcoreapp3.1\homework7.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\homework7\homework7\obj\Debug\netcoreapp3.1\homework7.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\homework7\homework7\obj\Debug\netcoreapp3.1\homework7.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\homework7\homework7\obj\Debug\netcoreapp3.1\homework7.dll
+C:\Users\Lenovo\source\repos\homework7\homework7\obj\Debug\netcoreapp3.1\homework7.pdb
+C:\Users\Lenovo\source\repos\homework7\homework7\obj\Debug\netcoreapp3.1\homework7.genruntimeconfig.cache
